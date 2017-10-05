@@ -1,6 +1,6 @@
 # speech-synth
 
-> The simplest customizable google maps component for react.
+> Simple text to speech module built on Web Speech API.
 
 - Try out a live demo of the component [here](https://speech-synth.herokuapp.com)
 
