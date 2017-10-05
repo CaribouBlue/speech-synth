@@ -1,6 +1,6 @@
 {
   "name": "speech-synth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple text to speech module built on Web Speech API",
   "main": "src/index.js",
   "scripts": {
