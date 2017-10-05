@@ -4,7 +4,7 @@ class Speech {
     const voices = window.speechSynthesis.getVoices();
     window.speechSynthesis.onvoiceschanged = () => {
       if (!voices.length)
-        this.sayIt(input, voiceURI);
+        this.say(input, voiceURI);
     };
     if (voices.length) {
       utterance.voice = voices.filter(function(voice) { 
